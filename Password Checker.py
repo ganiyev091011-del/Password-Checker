@@ -2,6 +2,7 @@ import time
 import os
 
 os.system("cls" if os.name == "nt" else "clear")
+# This code above is used to clear the terminal automaticly after each RUN.
 
 
 # foundation (veriables)
