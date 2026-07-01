@@ -12,6 +12,6 @@ A clean, interactive Python command-line tool that dynamically validates user re
 - **Polished UX:** Uses logical delays and distinct visual emojis to create a guided, user-friendly interface.
 
 ## 🛠️ How to Run
-Ensure you have Python installed, then run the script via your terminal:
+Ensure you have Python installed, then run the script via your terminal and that is it:
 ```bash
 python Password Checker.py
